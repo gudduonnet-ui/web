@@ -1,0 +1,1 @@
+Static site ready. Replace Formspree ID and upload to host.
